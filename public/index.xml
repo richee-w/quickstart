@@ -13,6 +13,15 @@
     
     <item>
       <title>My Second Post</title>
+      <link>http://example.org/my-second-post/</link>
+      <pubDate>Tue, 28 Jan 2020 19:07:25 +0000</pubDate>
+      
+      <guid>http://example.org/my-second-post/</guid>
+      <description>Jeez, if I get even more creative with these post titles, I might just have to give myself a huge pat on the back.</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
       <link>http://example.org/posts/my-second-post/</link>
       <pubDate>Tue, 28 Jan 2020 19:07:25 +0000</pubDate>
       
